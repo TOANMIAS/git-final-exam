@@ -1,4 +1,4 @@
-Giới thiệu:
+Hello, this is Phạm Huỳnh Bảo Toàn
 Tôi là Phạm Huỳnh Bảo Toàn.
 Sinh viên ngành CNTT.
 Hiện đang học Git và phát triển web.
