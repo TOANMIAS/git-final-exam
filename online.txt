@@ -1,3 +1,5 @@
 Đây là file online.txt tạo trực tiếp trên GitHub cho hoạt động 7.
 Đây là file online.txt tạo trực tiếp trên GitHub cho hoạt động 7.
 Đây là file online.txt tạo trực tiếp trên GitHub cho hoạt động 7.
+Dòng thêm 1 (local)
+Dòng thêm 2 (local)
