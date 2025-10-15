@@ -1,5 +1,5 @@
 Giới thiệu:
-Tôi là Phạm Huỳnh Bảo Toàn.
+Xin chào, tôi là Phạm Huỳnh Bảo Toàn
 Sinh viên ngành CNTT.
 Hiện đang học Git và phát triển web.
 Mục tiêu: nắm vững Git để quản lý mã nguồn.
