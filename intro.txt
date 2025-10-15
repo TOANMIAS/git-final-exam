@@ -1,6 +1,5 @@
+Xin chào, tôi là Phạm Huỳnh Bảo Toàn
 Hello, this is Phạm Huỳnh Bảo Toàn
-Tôi là Phạm Huỳnh Bảo Toàn.
-
 Giới thiệu:
 Xin chào, tôi là Phạm Huỳnh Bảo Toàn.
 Sinh viên ngành CNTT.
@@ -23,3 +22,5 @@ Kế hoạch học tập:
 3. Hoàn thiện dự án nhỏ sử dụng Git trong tuần.
 4. Luyện tập câu lệnh git reset/revert.
 5. Đọc tài liệu nâng cao về rebase và push/pull.
+
+Conflict resolved on 15/10/2025
