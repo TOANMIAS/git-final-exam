@@ -1,16 +1,22 @@
 Hello, this is Phạm Huỳnh Bảo Toàn
 Tôi là Phạm Huỳnh Bảo Toàn.
+
+Giới thiệu:
+Xin chào, tôi là Phạm Huỳnh Bảo Toàn.
 Sinh viên ngành CNTT.
 Hiện đang học Git và phát triển web.
 Mục tiêu: nắm vững Git để quản lý mã nguồn.
+
 Sở thích:
 - Cầu lông
 - Lập trình
 - Đọc sách
+
 Kỹ năng:
 - HTML, CSS, JavaScript
 - Python cơ bản
 - Sử dụng Git và GitHub
+
 Kế hoạch học tập:
 1. Học Git cơ bản (commit, branch) trong 2 ngày.
 2. Thực hành merge và resolve conflict.
