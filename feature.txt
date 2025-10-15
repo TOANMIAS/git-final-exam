@@ -1,0 +1,7 @@
+Tính năng mới: Thêm trang filter sản phẩm
+Mô tả:
+- Filter theo giá
+- Filter theo thương hiệu
+- Giao diện responsive
+- Có phân trang
+- Lưu lựa chọn người dùng
