@@ -1,3 +1,5 @@
 - Git giúp quản lý mã nguồn.
 - Git hỗ trợ làm việc nhóm.
 - Git lưu lịch sử commit chi tiết.
+- Cần luyện tập thường xuyên.
+- Sử dụng branch để tách chức năng.
