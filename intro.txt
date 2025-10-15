@@ -11,3 +11,9 @@ Kỹ năng:
 - HTML, CSS, JavaScript
 - Python cơ bản
 - Sử dụng Git và GitHub
+Kế hoạch học tập:
+1. Học Git cơ bản (commit, branch) trong 2 ngày.
+2. Thực hành merge và resolve conflict.
+3. Hoàn thiện dự án nhỏ sử dụng Git trong tuần.
+4. Luyện tập câu lệnh git reset/revert.
+5. Đọc tài liệu nâng cao về rebase và push/pull.
